@@ -1,0 +1,30 @@
+body{
+    color:  hsl(263, 55%, 52%);
+    background-image:-moz-element();
+    display: flex;
+    flex: content;
+}
+
+body{
+    color:hsl(217, 19%, 35%);
+    border-image: 70px;
+    background-image: initial;
+
+}
+
+body{
+    color: hsl(219, 29%, 14%);
+    border-radius: 400px;
+}
+
+body{
+   color: hsl(0, 0%, 81%);
+   background-color: blueviolet;
+}
+
+body{
+ color: hsl(210, 46%, 95%);
+ border-right: 500px;
+ border-color:  hsl(210, 46%, 95%);
+
+}
