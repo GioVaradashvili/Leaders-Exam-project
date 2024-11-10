@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: rgb(109, 100, 19);
+    font-size: 2em;
+    font-family: cursive;
+}
+
+img{
+    border: 30px;
+    border-radius: 40px;
+    box-shadow: black;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: rgba(239, 223, 85, 0.293);
+    color: rgb(108, 61, 0);
+    border: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.703);
+}
