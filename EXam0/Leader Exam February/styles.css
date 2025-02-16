@@ -1,0 +1,111 @@
+h2{
+    text-align: right;
+    color: hsl(243, 87%, 12%);
+    word-spacing: 20%;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+}
+
+div{
+    display: flex;
+    justify-content: right;
+}
+
+button{
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: hsl(224, 93%, 58%);
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 7%;
+    box-shadow: 20px;
+    box-shadow: 0 10px 20px rgba(0, 58, 90, 0.381);
+}
+
+button:hover{
+    background-color: hsl(224, 93%, 45%);
+}
+
+div.vrda{
+    margin-right: 10px;
+    display: flex;
+    justify-content: left;
+}
+
+div.h2{
+    display: flex;
+    justify-content: right;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div.p{
+    display: flex;
+    justify-content: left;
+    font-size: 1.2em;
+    color: hsl(170, 45%, 43%);
+    text-decoration: underline;
+    word-spacing: 10%;
+}
+
+div.txt{
+    border: 5px solid #000;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    word-spacing: 5px;
+    box-shadow: 0 10px 20px rgba(0, 58, 90, 0.381);
+}
+
+div.img4{
+    margin-left: 10px;
+    display: flex;
+    justify-content: left;
+    background-image: url('img4.jpg');
+    background-size: cover;
+    width: 300px;
+    border-radius: 50%;
+}
+
+footer{
+    background-color: hsl(243, 100%, 82%);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+div.email2{
+    display: flex;
+    justify-content: right;
+    font-family: 'Courier New', Courier, monospace;
+    color: hsl(0, 0%, 46%);
+    box-sizing: 20%;
+    word-spacing: 10%;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border: 10px;
+    box-shadow: 0 10px 20px rgb(255, 255, 255);
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 100%);
+}
+
+button{
+    background-color: hsl(224, 93%, 58%);
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
