@@ -1,0 +1,87 @@
+h1{
+    color: #000000;
+    text-align: left;
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 0;
+    box-shadow: 40px;
+    padding: 20px;
+    border-radius: 15px;
+    font-family: 'Arial', sans-serif;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    font-size: 1em;
+    font-family: 'Arial', sans-serif;
+}
+
+h3{
+    color: #000000;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 10px;
+    border-radius: 15px;
+    font-family: 'Arial', sans-serif;
+}
+
+label{
+    color: #000000;
+    font-size: 1.2em;
+    margin: 10px 0;
+    display: block;
+    font-family: 'Arial', sans-serif;
+}
+
+input{
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #000000;
+    border-radius: 60px;
+    font-size: 1em;
+    font-family: 'Arial', sans-serif;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+button{
+    background-color: #0070a8;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 1.2em;
+    font-family: 'Arial', sans-serif;
+    text-align: right;
+}
+
+button:hover{
+    background-color: #005f8a;
+}
+
+p{
+    color: #000000;
+    font-size: 1.2em;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 15px;
+    font-family: 'Arial', sans-serif;
+}
+
+h2{
+    color: #000000;
+    text-align: left;
+    font-size: 2em;
+    margin: 0;
+    padding: 10px;
+    border-radius: 15px;
+    font-family: 'Arial', sans-serif;
+}
